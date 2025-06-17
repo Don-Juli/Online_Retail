@@ -54,7 +54,7 @@ Summarized findings in clear, actionable language for business stakeholders.
 Generated professional Word reports with tables, charts, and recommendations.
 Provided code and documentation for reproducibility and transparency.
 ## visualization and analysis
-[downoad](http://localhost:8888/doc/tree/Untitled49.ipynb?)
+[downoad](http://localhost:8888/lab/tree/Untitled49.ipynb)
 ## Analysis
 ### Sales & Orders 
 Total sales: ~£8 million (after cleaning) 
